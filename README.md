@@ -1,1 +1,2 @@
 # SAGA-PSP - Documentation
+SAGA PSP is a scrollytelling website documenting the full rebuild of two PSP-1004 consoles into custom "Clear Blue" transparent shells. A 3D model of the console sits pinned on the left while the story scrolls past on the right — from flashing custom firmware (ARK-4), through the teardown, shell swap and display upgrade, to a second PSP rebuilt after the first one died mid-mod. Built with Three.js, GSAP ScrollTrigger and Lenis, and shipped as a single self-contained HTML file.
